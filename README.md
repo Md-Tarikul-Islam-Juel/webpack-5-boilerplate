@@ -1,6 +1,4 @@
-# b
 
-Empty project.
 
 ## Building and running on localhost
 
