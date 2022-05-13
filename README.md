@@ -23,7 +23,7 @@ npm run build-dev
 ## Running
 
 ```sh
-node dist/bundle.js
+npm start
 ```
 
 
